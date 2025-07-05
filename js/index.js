@@ -770,8 +770,8 @@ function JuanCarlosTorres() {
     window.open("pases/JuanCarlosTorres.html", "_self");        
 }
 
-function CarlosRosalesySamantha() {
-    window.open("pases/CarlosRosalesySamantha.html", "_self");        
+function CarlosRosalesySamanta() {
+    window.open("pases/CarlosRosalesySamanta.html", "_self");        
 }
 //////////////////////////////////////////////
 function GriseldaYFam() {
@@ -2089,7 +2089,7 @@ function copiarJuanCarlosTorres(){
   document.execCommand('paste');
 }
 
-function copiarCarlosRosalesySamantha(){
+function copiarCarlosRosalesySamanta(){
   var origen = document.getElementById('target89');
   var destino = document.getElementById('target10');
   var copyFrom = document.createElement("textarea");
