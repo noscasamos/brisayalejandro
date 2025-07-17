@@ -774,14 +774,14 @@ function CarlosRosalesySamanta() {
     window.open("pases/CarlosRosalesySamanta.html", "_self");        
 }
 //////////////////////////////////////////////
-function GriseldaYFam() {
-    window.open("pases/GriseldaYFam.html", "_self");        
+function RobertoGomez() {
+    window.open("pases/RobertoGomez.html", "_self");        
 }
-function CuraMartinFavela() {
-    window.open("pases/CuraMartinFavela.html", "_self");        
+function JohanAcevedo() {
+    window.open("pases/JohanAcevedo.html", "_self");        
 }
-function AnaRosaGraciano() {
-    window.open("pases/AnaRosaGraciano.html", "_self");        
+function SamuelOntiveros() {
+    window.open("pases/SamuelOntiveros.html", "_self");        
 }
 function SilviaGonzalezHuerta() {
     window.open("pases/SilviaGonzalezHuerta.html", "_self");        
@@ -2104,7 +2104,7 @@ function copiarCarlosRosalesySamanta(){
   document.execCommand('paste');
 }
 
-function copiarGriseldaYFam(){
+function copiarRobertoGomez(){
   var origen = document.getElementById('target90');
   var destino = document.getElementById('target10');
   var copyFrom = document.createElement("textarea");
@@ -2118,7 +2118,7 @@ function copiarGriseldaYFam(){
   destino.focus();
   document.execCommand('paste');
 }
- function copiarCuraMartinFavela(){
+ function copiarJohanAcevedo(){
   var origen = document.getElementById('target91');
   var destino = document.getElementById('target10');
   var copyFrom = document.createElement("textarea");
@@ -2132,7 +2132,7 @@ function copiarGriseldaYFam(){
   destino.focus();
   document.execCommand('paste');
 }
- function copiarAnaRosaGraciano(){
+ function copiarSamuelOntiveros(){
   var origen = document.getElementById('target92');
   var destino = document.getElementById('target10');
   var copyFrom = document.createElement("textarea");
